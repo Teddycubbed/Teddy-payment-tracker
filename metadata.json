@@ -1,0 +1,7 @@
+{
+  "name": "PayTrack AI - Smart Receipt Scanner",
+  "description": "An intelligent payment extraction system that uses Gemini AI to parse screenshots and bills, automatically categorizing and tracking expenses.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
